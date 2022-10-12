@@ -1,0 +1,8 @@
+.single-tshirt img {
+  width: 150px;
+}
+
+.single-tshirt {
+  border: 1px solid gray;
+  border-radius: 5px;
+}
